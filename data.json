@@ -3,28 +3,172 @@
   "showNames": true,
   "countries": {
     "Brasil": [
-      {"id":"pablo_br","role":"CEO Global","name":"Pablo Utrera","parent":null,"area":"shared","x":760,"y":100},
-      {"id":"daniel_br","role":"Diretor Geral Brasil","name":"Daniel Prieto","parent":"pablo_br","area":"shared","x":430,"y":280},
-      {"id":"carla_br","role":"Head de Capital Humano","name":"Carla Sbaisero","parent":"pablo_br","area":"rh","x":760,"y":280},
-      {"id":"gabi_br","role":"Head de Marketing","name":"Gabriela Maldonado","parent":"pablo_br","area":"mkt","x":1090,"y":280},
-      {"id":"andy_br","role":"Diretor Médico","name":"Andy Krivoy","parent":"daniel_br","area":"med","x":100,"y":480},
-      {"id":"zapa_br","role":"Head Comercial","name":"Alexandre Zaparoli","parent":"daniel_br","area":"com","x":360,"y":480},
-      {"id":"edu_br","role":"Analista Financeiro","name":"Eduardo Campos","parent":"daniel_br","area":"fin","x":620,"y":480},
-      {"id":"nacho_br","role":"Head de Operações","name":"Ignacio Medeiros","parent":"daniel_br","area":"ops","x":880,"y":480},
-      {"id":"ro_br","role":"Coordenadora de RH","name":"Roberta Henrique","parent":"carla_br","area":"rh","x":700,"y":480},
-      {"id":"ari_br","role":"HRBP","name":"Ariane Vilete","parent":"carla_br","area":"rh","x":960,"y":480},
-      {"id":"gis_br","role":"Coordenadora de Marketing","name":"Giselle Jost","parent":"gabi_br","area":"mkt","x":1190,"y":480},
-      {"id":"eng_br","role":"Analista de RH","name":"Engliciane Maria","parent":"ro_br","area":"rh","x":700,"y":680}
+      {
+        "id": "pablo_br",
+        "role": "CEO Global",
+        "name": "Pablo Utrera",
+        "parent": null,
+        "area": "shared",
+        "x": 892,
+        "y": 92
+      },
+      {
+        "id": "daniel_br",
+        "role": "Diretor Geral Brasil",
+        "name": "Daniel Prieto",
+        "parent": "pablo_br",
+        "area": "shared",
+        "x": 411,
+        "y": 237
+      },
+      {
+        "id": "carla_br",
+        "role": "Head de Capital Humano",
+        "name": "Carla Sbaisero",
+        "parent": "pablo_br",
+        "area": "rh",
+        "x": 1053,
+        "y": 237
+      },
+      {
+        "id": "gabi_br",
+        "role": "Head de Marketing",
+        "name": "Gabriela Maldonado",
+        "parent": "pablo_br",
+        "area": "mkt",
+        "x": 1374,
+        "y": 237
+      },
+      {
+        "id": "andy_br",
+        "role": "Diretor Médico",
+        "name": "Andy Krivoy",
+        "parent": "daniel_br",
+        "area": "med",
+        "x": 90,
+        "y": 382
+      },
+      {
+        "id": "zapa_br",
+        "role": "Head Comercial",
+        "name": "Alexandre Zaparoli",
+        "parent": "daniel_br",
+        "area": "com",
+        "x": 304,
+        "y": 382
+      },
+      {
+        "id": "edu_br",
+        "role": "Analista Financeiro",
+        "name": "Eduardo Campos",
+        "parent": "daniel_br",
+        "area": "fin",
+        "x": 518,
+        "y": 382
+      },
+      {
+        "id": "nacho_br",
+        "role": "Head de Operações",
+        "name": "Ignacio Medeiros",
+        "parent": "daniel_br",
+        "area": "ops",
+        "x": 732,
+        "y": 382
+      },
+      {
+        "id": "ro_br",
+        "role": "Coordenadora de RH",
+        "name": "Roberta Henrique",
+        "parent": "carla_br",
+        "area": "rh",
+        "x": 946,
+        "y": 382
+      },
+      {
+        "id": "ari_br",
+        "role": "HRBP",
+        "name": "Ariane Vilete",
+        "parent": "carla_br",
+        "area": "rh",
+        "x": 1160,
+        "y": 382
+      },
+      {
+        "id": "gis_br",
+        "role": "Coordenadora de Marketing",
+        "name": "Giselle Jost",
+        "parent": "gabi_br",
+        "area": "mkt",
+        "x": 1374,
+        "y": 382
+      },
+      {
+        "id": "eng_br",
+        "role": "Analista de RH",
+        "name": "Engliciane Maria",
+        "parent": "ro_br",
+        "area": "rh",
+        "x": 946,
+        "y": 527
+      }
     ],
     "Argentina": [
-      {"id":"pablo_ar","role":"CEO Global","name":"Pablo Utrera","parent":null,"area":"shared","x":760,"y":100},
-      {"id":"carla_ar","role":"Head de Capital Humano","name":"Carla Sbaisero","parent":"pablo_ar","area":"rh","x":500,"y":300},
-      {"id":"gabi_ar","role":"Head de Marketing","name":"Gabriela Maldonado","parent":"pablo_ar","area":"mkt","x":760,"y":300},
-      {"id":"direcao_ar","role":"Direção / Operações Argentina","name":"","parent":"pablo_ar","area":"shared","x":1020,"y":300}
+      {
+        "id": "pablo_ar",
+        "role": "CEO Global",
+        "name": "Pablo Utrera",
+        "parent": null,
+        "area": "shared",
+        "x": 304,
+        "y": 92
+      },
+      {
+        "id": "carla_ar",
+        "role": "Head de Capital Humano",
+        "name": "Carla Sbaisero",
+        "parent": "pablo_ar",
+        "area": "rh",
+        "x": 90,
+        "y": 237
+      },
+      {
+        "id": "gabi_ar",
+        "role": "Head de Marketing",
+        "name": "Gabriela Maldonado",
+        "parent": "pablo_ar",
+        "area": "mkt",
+        "x": 304,
+        "y": 237
+      },
+      {
+        "id": "direcao_ar",
+        "role": "Direção / Operações Argentina",
+        "name": "",
+        "parent": "pablo_ar",
+        "area": "shared",
+        "x": 518,
+        "y": 237
+      }
     ],
     "México": [
-      {"id":"pablo_mx","role":"CEO Global","name":"Pablo Utrera","parent":null,"area":"shared","x":760,"y":100},
-      {"id":"lider_mx","role":"Liderança México","name":"","parent":"pablo_mx","area":"shared","x":760,"y":320}
+      {
+        "id": "pablo_mx",
+        "role": "CEO Global",
+        "name": "Pablo Utrera",
+        "parent": null,
+        "area": "shared",
+        "x": 90,
+        "y": 92
+      },
+      {
+        "id": "lider_mx",
+        "role": "Liderança México",
+        "name": "",
+        "parent": "pablo_mx",
+        "area": "shared",
+        "x": 90,
+        "y": 237
+      }
     ]
   }
 }
